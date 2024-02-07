@@ -1,0 +1,1 @@
+ERROR - 2024-02-07 15:46:12,926 в строке 41 функция "find_date()" : Ошибка при анализе строки: invalid literal for int() with base 10: ''

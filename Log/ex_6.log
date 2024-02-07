@@ -1,0 +1,766 @@
+INFO - 2024-02-07 15:53:54,527 : VS, , Yes, 15
+INFO - 2024-02-07 15:53:54,527 : Задачи на семинар 15. Ответы, , Yes, 15
+INFO - 2024-02-07 15:53:54,528 : Задачи на семинар 15. Ответы, .rar, No, 15
+INFO - 2024-02-07 15:53:54,528 : Семинар 15. Погружение в Python. Обзор стандартной библиотеки Python, .pdf, No, 15
+INFO - 2024-02-07 15:53:54,528 : Seminar15, , Yes, VS
+INFO - 2024-02-07 15:53:54,528 : file_info, .log, No, VS
+INFO - 2024-02-07 15:53:54,529 : .git, , Yes, Seminar15
+INFO - 2024-02-07 15:53:54,529 : Log, , Yes, Seminar15
+INFO - 2024-02-07 15:53:54,529 : __pycache__, , Yes, Seminar15
+INFO - 2024-02-07 15:53:54,529 : 00, .py, No, Seminar15
+INFO - 2024-02-07 15:53:54,529 : 000, .py, No, Seminar15
+INFO - 2024-02-07 15:53:54,529 : 001, .py, No, Seminar15
+INFO - 2024-02-07 15:53:54,529 : 003, .py, No, Seminar15
+INFO - 2024-02-07 15:53:54,529 : 01, .py, No, Seminar15
+INFO - 2024-02-07 15:53:54,529 : ex_1, .py, No, Seminar15
+INFO - 2024-02-07 15:53:54,529 : ex_2, .py, No, Seminar15
+INFO - 2024-02-07 15:53:54,529 : ex_3, .py, No, Seminar15
+INFO - 2024-02-07 15:53:54,529 : ex_4, .py, No, Seminar15
+INFO - 2024-02-07 15:53:54,529 : ex_5, .py, No, Seminar15
+INFO - 2024-02-07 15:53:54,529 : ex_6, .py, No, Seminar15
+INFO - 2024-02-07 15:53:54,530 : fsmonitor--daemon, , Yes, .git
+INFO - 2024-02-07 15:53:54,530 : hooks, , Yes, .git
+INFO - 2024-02-07 15:53:54,530 : info, , Yes, .git
+INFO - 2024-02-07 15:53:54,530 : objects, , Yes, .git
+INFO - 2024-02-07 15:53:54,530 : refs, , Yes, .git
+INFO - 2024-02-07 15:53:54,530 : config, , No, .git
+INFO - 2024-02-07 15:53:54,530 : description, , No, .git
+INFO - 2024-02-07 15:53:54,530 : HEAD, , No, .git
+INFO - 2024-02-07 15:53:54,530 : cookies, , Yes, fsmonitor--daemon
+INFO - 2024-02-07 15:53:54,531 : applypatch-msg, .sample, No, hooks
+INFO - 2024-02-07 15:53:54,532 : commit-msg, .sample, No, hooks
+INFO - 2024-02-07 15:53:54,532 : fsmonitor-watchman, .sample, No, hooks
+INFO - 2024-02-07 15:53:54,532 : post-update, .sample, No, hooks
+INFO - 2024-02-07 15:53:54,532 : pre-applypatch, .sample, No, hooks
+INFO - 2024-02-07 15:53:54,532 : pre-commit, .sample, No, hooks
+INFO - 2024-02-07 15:53:54,532 : pre-merge-commit, .sample, No, hooks
+INFO - 2024-02-07 15:53:54,532 : pre-push, .sample, No, hooks
+INFO - 2024-02-07 15:53:54,532 : pre-rebase, .sample, No, hooks
+INFO - 2024-02-07 15:53:54,532 : pre-receive, .sample, No, hooks
+INFO - 2024-02-07 15:53:54,532 : prepare-commit-msg, .sample, No, hooks
+INFO - 2024-02-07 15:53:54,532 : push-to-checkout, .sample, No, hooks
+INFO - 2024-02-07 15:53:54,532 : sendemail-validate, .sample, No, hooks
+INFO - 2024-02-07 15:53:54,532 : update, .sample, No, hooks
+INFO - 2024-02-07 15:53:54,532 : exclude, , No, info
+INFO - 2024-02-07 15:53:54,532 : info, , Yes, objects
+INFO - 2024-02-07 15:53:54,532 : pack, , Yes, objects
+INFO - 2024-02-07 15:53:54,533 : heads, , Yes, refs
+INFO - 2024-02-07 15:53:54,533 : tags, , Yes, refs
+INFO - 2024-02-07 15:53:54,533 : Data_log, .log, No, Log
+INFO - 2024-02-07 15:53:54,533 : ex_1, .log, No, Log
+INFO - 2024-02-07 15:53:54,533 : ex_2, .log, No, Log
+INFO - 2024-02-07 15:53:54,533 : ex_3, .log, No, Log
+INFO - 2024-02-07 15:53:54,533 : ex_4, .log, No, Log
+INFO - 2024-02-07 15:53:54,534 : ex_6, .log, No, Log
+INFO - 2024-02-07 15:53:54,534 : ex_4.cpython-310 (2), .pyc, No, __pycache__
+INFO - 2024-02-07 15:53:54,534 : ex_4.cpython-310, .pyc, No, __pycache__
+INFO - 2024-02-07 15:53:54,534 : ex_4.cpython-311, .pyc, No, __pycache__
+INFO - 2024-02-07 15:53:54,534 : Задачи на семинар 15. Ответы, , Yes, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:53:54,534 : .idea, , Yes, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:53:54,534 : Log, , Yes, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:53:54,534 : task_1, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:53:54,534 : task_2, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:53:54,534 : task_3, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:53:54,534 : task_4, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:53:54,534 : task_5, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:53:54,534 : task_6, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:53:54,534 : inspectionProfiles, , Yes, .idea
+INFO - 2024-02-07 15:53:54,534 : pylintpylint.tmp, , Yes, .idea
+INFO - 2024-02-07 15:53:54,534 : .gitignore, , No, .idea
+INFO - 2024-02-07 15:53:54,534 : misc, .xml, No, .idea
+INFO - 2024-02-07 15:53:54,534 : modules, .xml, No, .idea
+INFO - 2024-02-07 15:53:54,534 : pylint, .xml, No, .idea
+INFO - 2024-02-07 15:53:54,536 : workspace, .xml, No, .idea
+INFO - 2024-02-07 15:53:54,536 : Задачи на семинар. Ответы, .iml, No, .idea
+INFO - 2024-02-07 15:53:54,536 : profiles_settings, .xml, No, inspectionProfiles
+INFO - 2024-02-07 15:53:54,536 : Project_Default, .xml, No, inspectionProfiles
+INFO - 2024-02-07 15:53:54,537 : log_1, .log, No, Log
+INFO - 2024-02-07 15:53:54,537 : log_4, .log, No, Log
+INFO - 2024-02-07 15:54:59,610 : VS, , Yes, 15
+INFO - 2024-02-07 15:54:59,610 : Задачи на семинар 15. Ответы, , Yes, 15
+INFO - 2024-02-07 15:54:59,612 : Задачи на семинар 15. Ответы, .rar, No, 15
+INFO - 2024-02-07 15:54:59,612 : Семинар 15. Погружение в Python. Обзор стандартной библиотеки Python, .pdf, No, 15
+INFO - 2024-02-07 15:54:59,612 : Seminar15, , Yes, VS
+INFO - 2024-02-07 15:54:59,612 : file_info, .log, No, VS
+INFO - 2024-02-07 15:54:59,612 : .git, , Yes, Seminar15
+INFO - 2024-02-07 15:54:59,612 : Log, , Yes, Seminar15
+INFO - 2024-02-07 15:54:59,612 : __pycache__, , Yes, Seminar15
+INFO - 2024-02-07 15:54:59,612 : 00, .py, No, Seminar15
+INFO - 2024-02-07 15:54:59,612 : 000, .py, No, Seminar15
+INFO - 2024-02-07 15:54:59,612 : 001, .py, No, Seminar15
+INFO - 2024-02-07 15:54:59,612 : 003, .py, No, Seminar15
+INFO - 2024-02-07 15:54:59,612 : 01, .py, No, Seminar15
+INFO - 2024-02-07 15:54:59,612 : ex_1, .py, No, Seminar15
+INFO - 2024-02-07 15:54:59,612 : ex_2, .py, No, Seminar15
+INFO - 2024-02-07 15:54:59,612 : ex_3, .py, No, Seminar15
+INFO - 2024-02-07 15:54:59,612 : ex_4, .py, No, Seminar15
+INFO - 2024-02-07 15:54:59,612 : ex_5, .py, No, Seminar15
+INFO - 2024-02-07 15:54:59,613 : ex_6, .py, No, Seminar15
+INFO - 2024-02-07 15:54:59,613 : fsmonitor--daemon, , Yes, .git
+INFO - 2024-02-07 15:54:59,613 : hooks, , Yes, .git
+INFO - 2024-02-07 15:54:59,613 : info, , Yes, .git
+INFO - 2024-02-07 15:54:59,613 : objects, , Yes, .git
+INFO - 2024-02-07 15:54:59,613 : refs, , Yes, .git
+INFO - 2024-02-07 15:54:59,613 : config, , No, .git
+INFO - 2024-02-07 15:54:59,613 : description, , No, .git
+INFO - 2024-02-07 15:54:59,613 : HEAD, , No, .git
+INFO - 2024-02-07 15:54:59,614 : cookies, , Yes, fsmonitor--daemon
+INFO - 2024-02-07 15:54:59,614 : applypatch-msg, .sample, No, hooks
+INFO - 2024-02-07 15:54:59,615 : commit-msg, .sample, No, hooks
+INFO - 2024-02-07 15:54:59,615 : fsmonitor-watchman, .sample, No, hooks
+INFO - 2024-02-07 15:54:59,615 : post-update, .sample, No, hooks
+INFO - 2024-02-07 15:54:59,615 : pre-applypatch, .sample, No, hooks
+INFO - 2024-02-07 15:54:59,615 : pre-commit, .sample, No, hooks
+INFO - 2024-02-07 15:54:59,615 : pre-merge-commit, .sample, No, hooks
+INFO - 2024-02-07 15:54:59,615 : pre-push, .sample, No, hooks
+INFO - 2024-02-07 15:54:59,615 : pre-rebase, .sample, No, hooks
+INFO - 2024-02-07 15:54:59,615 : pre-receive, .sample, No, hooks
+INFO - 2024-02-07 15:54:59,615 : prepare-commit-msg, .sample, No, hooks
+INFO - 2024-02-07 15:54:59,615 : push-to-checkout, .sample, No, hooks
+INFO - 2024-02-07 15:54:59,615 : sendemail-validate, .sample, No, hooks
+INFO - 2024-02-07 15:54:59,615 : update, .sample, No, hooks
+INFO - 2024-02-07 15:54:59,615 : exclude, , No, info
+INFO - 2024-02-07 15:54:59,615 : info, , Yes, objects
+INFO - 2024-02-07 15:54:59,615 : pack, , Yes, objects
+INFO - 2024-02-07 15:54:59,616 : heads, , Yes, refs
+INFO - 2024-02-07 15:54:59,616 : tags, , Yes, refs
+INFO - 2024-02-07 15:54:59,616 : ex_1, .log, No, Log
+INFO - 2024-02-07 15:54:59,616 : ex_2, .log, No, Log
+INFO - 2024-02-07 15:54:59,617 : ex_3, .log, No, Log
+INFO - 2024-02-07 15:54:59,617 : ex_4, .log, No, Log
+INFO - 2024-02-07 15:54:59,617 : ex_6, .log, No, Log
+INFO - 2024-02-07 15:54:59,617 : ex_4.cpython-310 (2), .pyc, No, __pycache__
+INFO - 2024-02-07 15:54:59,617 : ex_4.cpython-310, .pyc, No, __pycache__
+INFO - 2024-02-07 15:54:59,617 : ex_4.cpython-311, .pyc, No, __pycache__
+INFO - 2024-02-07 15:54:59,617 : Задачи на семинар 15. Ответы, , Yes, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:54:59,617 : .idea, , Yes, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:54:59,617 : Log, , Yes, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:54:59,617 : task_1, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:54:59,617 : task_2, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:54:59,617 : task_3, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:54:59,617 : task_4, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:54:59,617 : task_5, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:54:59,618 : task_6, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:54:59,618 : inspectionProfiles, , Yes, .idea
+INFO - 2024-02-07 15:54:59,618 : pylintpylint.tmp, , Yes, .idea
+INFO - 2024-02-07 15:54:59,618 : .gitignore, , No, .idea
+INFO - 2024-02-07 15:54:59,618 : misc, .xml, No, .idea
+INFO - 2024-02-07 15:54:59,618 : modules, .xml, No, .idea
+INFO - 2024-02-07 15:54:59,618 : pylint, .xml, No, .idea
+INFO - 2024-02-07 15:54:59,618 : workspace, .xml, No, .idea
+INFO - 2024-02-07 15:54:59,618 : Задачи на семинар. Ответы, .iml, No, .idea
+INFO - 2024-02-07 15:54:59,618 : profiles_settings, .xml, No, inspectionProfiles
+INFO - 2024-02-07 15:54:59,618 : Project_Default, .xml, No, inspectionProfiles
+INFO - 2024-02-07 15:54:59,618 : log_1, .log, No, Log
+INFO - 2024-02-07 15:54:59,618 : log_4, .log, No, Log
+INFO - 2024-02-07 15:56:34,951 : VS, , Yes, 15
+INFO - 2024-02-07 15:56:34,951 : Задачи на семинар 15. Ответы, , Yes, 15
+INFO - 2024-02-07 15:56:34,951 : Задачи на семинар 15. Ответы, .rar, No, 15
+INFO - 2024-02-07 15:56:34,951 : Семинар 15. Погружение в Python. Обзор стандартной библиотеки Python, .pdf, No, 15
+INFO - 2024-02-07 15:56:34,951 : Seminar15, , Yes, VS
+INFO - 2024-02-07 15:56:34,951 : file_info, .log, No, VS
+INFO - 2024-02-07 15:56:34,952 : .git, , Yes, Seminar15
+INFO - 2024-02-07 15:56:34,952 : Log, , Yes, Seminar15
+INFO - 2024-02-07 15:56:34,952 : __pycache__, , Yes, Seminar15
+INFO - 2024-02-07 15:56:34,952 : ex_1, .py, No, Seminar15
+INFO - 2024-02-07 15:56:34,952 : ex_2, .py, No, Seminar15
+INFO - 2024-02-07 15:56:34,952 : ex_3, .py, No, Seminar15
+INFO - 2024-02-07 15:56:34,952 : ex_4, .py, No, Seminar15
+INFO - 2024-02-07 15:56:34,952 : ex_5, .py, No, Seminar15
+INFO - 2024-02-07 15:56:34,952 : ex_6, .py, No, Seminar15
+INFO - 2024-02-07 15:56:34,952 : fsmonitor--daemon, , Yes, .git
+INFO - 2024-02-07 15:56:34,952 : hooks, , Yes, .git
+INFO - 2024-02-07 15:56:34,952 : info, , Yes, .git
+INFO - 2024-02-07 15:56:34,952 : objects, , Yes, .git
+INFO - 2024-02-07 15:56:34,952 : refs, , Yes, .git
+INFO - 2024-02-07 15:56:34,952 : config, , No, .git
+INFO - 2024-02-07 15:56:34,952 : description, , No, .git
+INFO - 2024-02-07 15:56:34,952 : HEAD, , No, .git
+INFO - 2024-02-07 15:56:34,952 : cookies, , Yes, fsmonitor--daemon
+INFO - 2024-02-07 15:56:34,952 : applypatch-msg, .sample, No, hooks
+INFO - 2024-02-07 15:56:34,952 : commit-msg, .sample, No, hooks
+INFO - 2024-02-07 15:56:34,952 : fsmonitor-watchman, .sample, No, hooks
+INFO - 2024-02-07 15:56:34,952 : post-update, .sample, No, hooks
+INFO - 2024-02-07 15:56:34,952 : pre-applypatch, .sample, No, hooks
+INFO - 2024-02-07 15:56:34,952 : pre-commit, .sample, No, hooks
+INFO - 2024-02-07 15:56:34,952 : pre-merge-commit, .sample, No, hooks
+INFO - 2024-02-07 15:56:34,952 : pre-push, .sample, No, hooks
+INFO - 2024-02-07 15:56:34,952 : pre-rebase, .sample, No, hooks
+INFO - 2024-02-07 15:56:34,952 : pre-receive, .sample, No, hooks
+INFO - 2024-02-07 15:56:34,952 : prepare-commit-msg, .sample, No, hooks
+INFO - 2024-02-07 15:56:34,952 : push-to-checkout, .sample, No, hooks
+INFO - 2024-02-07 15:56:34,952 : sendemail-validate, .sample, No, hooks
+INFO - 2024-02-07 15:56:34,952 : update, .sample, No, hooks
+INFO - 2024-02-07 15:56:34,953 : exclude, , No, info
+INFO - 2024-02-07 15:56:34,953 : info, , Yes, objects
+INFO - 2024-02-07 15:56:34,953 : pack, , Yes, objects
+INFO - 2024-02-07 15:56:34,953 : heads, , Yes, refs
+INFO - 2024-02-07 15:56:34,953 : tags, , Yes, refs
+INFO - 2024-02-07 15:56:34,954 : ex_1, .log, No, Log
+INFO - 2024-02-07 15:56:34,955 : ex_2, .log, No, Log
+INFO - 2024-02-07 15:56:34,955 : ex_3, .log, No, Log
+INFO - 2024-02-07 15:56:34,955 : ex_4, .log, No, Log
+INFO - 2024-02-07 15:56:34,955 : ex_6, .log, No, Log
+INFO - 2024-02-07 15:56:34,955 : ex_4.cpython-310 (2), .pyc, No, __pycache__
+INFO - 2024-02-07 15:56:34,955 : ex_4.cpython-310, .pyc, No, __pycache__
+INFO - 2024-02-07 15:56:34,955 : ex_4.cpython-311, .pyc, No, __pycache__
+INFO - 2024-02-07 15:56:34,955 : Задачи на семинар 15. Ответы, , Yes, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:56:34,955 : .idea, , Yes, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:56:34,955 : Log, , Yes, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:56:34,955 : task_1, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:56:34,955 : task_2, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:56:34,955 : task_3, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:56:34,956 : task_4, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:56:34,956 : task_5, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:56:34,956 : task_6, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 15:56:34,956 : inspectionProfiles, , Yes, .idea
+INFO - 2024-02-07 15:56:34,956 : pylintpylint.tmp, , Yes, .idea
+INFO - 2024-02-07 15:56:34,956 : .gitignore, , No, .idea
+INFO - 2024-02-07 15:56:34,956 : misc, .xml, No, .idea
+INFO - 2024-02-07 15:56:34,956 : modules, .xml, No, .idea
+INFO - 2024-02-07 15:56:34,956 : pylint, .xml, No, .idea
+INFO - 2024-02-07 15:56:34,956 : workspace, .xml, No, .idea
+INFO - 2024-02-07 15:56:34,956 : Задачи на семинар. Ответы, .iml, No, .idea
+INFO - 2024-02-07 15:56:34,956 : profiles_settings, .xml, No, inspectionProfiles
+INFO - 2024-02-07 15:56:34,956 : Project_Default, .xml, No, inspectionProfiles
+INFO - 2024-02-07 15:56:34,957 : log_1, .log, No, Log
+INFO - 2024-02-07 15:56:34,957 : log_4, .log, No, Log
+INFO - 2024-02-07 16:03:37,552 : Lesson, , Yes, Погружение в Python
+INFO - 2024-02-07 16:03:37,552 : mus, , Yes, Погружение в Python
+INFO - 2024-02-07 16:03:37,552 : Seminar, , Yes, Погружение в Python
+INFO - 2024-02-07 16:03:37,552 : Rezult, .docx, No, Погружение в Python
+INFO - 2024-02-07 16:03:37,552 : 1, , Yes, Lesson
+INFO - 2024-02-07 16:03:37,552 : 2, , Yes, Lesson
+INFO - 2024-02-07 16:03:37,553 : Лекция 1. Погружение в Python. Основы Python (1), .pdf, No, 1
+INFO - 2024-02-07 16:03:37,553 : Лекция 1. Погружение в Python. Основы Python, .pdf, No, 1
+INFO - 2024-02-07 16:03:37,553 : Методичка. Погружение в Python. Простые типы данных, .pdf, No, 2
+INFO - 2024-02-07 16:03:37,553 : Презентация. Погружение в Python. Простые типы данных, .pdf, No, 2
+INFO - 2024-02-07 16:03:37,553 : Задачи на семинар 15. Ответы, , Yes, mus
+INFO - 2024-02-07 16:03:37,553 : .idea, , Yes, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,553 : Log, , Yes, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,553 : __pycache__, , Yes, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,553 : task_1, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,553 : task_2, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,553 : task_3, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,553 : task_4, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,553 : task_5, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,553 : task_6, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,553 : inspectionProfiles, , Yes, .idea
+INFO - 2024-02-07 16:03:37,553 : pylintpylint.tmp, , Yes, .idea
+INFO - 2024-02-07 16:03:37,553 : .gitignore, , No, .idea
+INFO - 2024-02-07 16:03:37,553 : misc, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,553 : modules, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,553 : pylint, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,553 : workspace, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,553 : Задачи на семинар. Ответы, .iml, No, .idea
+INFO - 2024-02-07 16:03:37,553 : profiles_settings, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,553 : Project_Default, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,553 : log_1, .log, No, Log
+INFO - 2024-02-07 16:03:37,553 : log_4, .log, No, Log
+INFO - 2024-02-07 16:03:37,553 : task_4.cpython-310, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,553 : task_4.cpython-311, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,553 : 1, , Yes, Seminar
+INFO - 2024-02-07 16:03:37,553 : 10, , Yes, Seminar
+INFO - 2024-02-07 16:03:37,553 : 11, , Yes, Seminar
+INFO - 2024-02-07 16:03:37,555 : 12, , Yes, Seminar
+INFO - 2024-02-07 16:03:37,555 : 13, , Yes, Seminar
+INFO - 2024-02-07 16:03:37,555 : 14, , Yes, Seminar
+INFO - 2024-02-07 16:03:37,555 : 15, , Yes, Seminar
+INFO - 2024-02-07 16:03:37,555 : 2, , Yes, Seminar
+INFO - 2024-02-07 16:03:37,555 : 3, , Yes, Seminar
+INFO - 2024-02-07 16:03:37,555 : 4, , Yes, Seminar
+INFO - 2024-02-07 16:03:37,555 : 5, , Yes, Seminar
+INFO - 2024-02-07 16:03:37,555 : 6, , Yes, Seminar
+INFO - 2024-02-07 16:03:37,555 : 7, , Yes, Seminar
+INFO - 2024-02-07 16:03:37,555 : 8, , Yes, Seminar
+INFO - 2024-02-07 16:03:37,555 : 9, , Yes, Seminar
+INFO - 2024-02-07 16:03:37,555 : Задачи на семинар 1. Ответы, , Yes, 1
+INFO - 2024-02-07 16:03:37,555 : Учебное пособие. Введение в алгоритмы на Python, , Yes, 1
+INFO - 2024-02-07 16:03:37,555 : 1-1, .png, No, 1
+INFO - 2024-02-07 16:03:37,555 : 1, .png, No, 1
+INFO - 2024-02-07 16:03:37,555 : 2, .png, No, 1
+INFO - 2024-02-07 16:03:37,556 : 3, .png, No, 1
+INFO - 2024-02-07 16:03:37,556 : t_1, .py, No, 1
+INFO - 2024-02-07 16:03:37,556 : t_2, .py, No, 1
+INFO - 2024-02-07 16:03:37,556 : t_3, .py, No, 1
+INFO - 2024-02-07 16:03:37,556 : t_4, .py, No, 1
+INFO - 2024-02-07 16:03:37,556 : гит, .txt, No, 1
+INFO - 2024-02-07 16:03:37,556 : Задачи на семинар 1. Ответы, .rar, No, 1
+INFO - 2024-02-07 16:03:37,556 : Как создать пулл в свой репо, .mp4, No, 1
+INFO - 2024-02-07 16:03:37,556 : Семинар 1. Погружение в Python. Основы Python, .pdf, No, 1
+INFO - 2024-02-07 16:03:37,556 : Учебное пособие. Введение в алгоритмы на Python, .rar, No, 1
+INFO - 2024-02-07 16:03:37,556 : Задачи на семинар 1. Ответы, , Yes, Задачи на семинар 1. Ответы
+INFO - 2024-02-07 16:03:37,556 : .idea, , Yes, Задачи на семинар 1. Ответы
+INFO - 2024-02-07 16:03:37,556 : task_5, .py, No, Задачи на семинар 1. Ответы
+INFO - 2024-02-07 16:03:37,556 : task_6, .py, No, Задачи на семинар 1. Ответы
+INFO - 2024-02-07 16:03:37,556 : task_7, .py, No, Задачи на семинар 1. Ответы
+INFO - 2024-02-07 16:03:37,556 : task_8, .py, No, Задачи на семинар 1. Ответы
+INFO - 2024-02-07 16:03:37,557 : task_9, .py, No, Задачи на семинар 1. Ответы
+INFO - 2024-02-07 16:03:37,557 : inspectionProfiles, , Yes, .idea
+INFO - 2024-02-07 16:03:37,557 : pylintpylint.tmp, , Yes, .idea
+INFO - 2024-02-07 16:03:37,557 : .gitignore, , No, .idea
+INFO - 2024-02-07 16:03:37,557 : misc, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,557 : modules, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,557 : workspace, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,557 : Задачи на семинар. Ответы, .iml, No, .idea
+INFO - 2024-02-07 16:03:37,557 : profiles_settings, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,557 : Project_Default, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,557 : Учебное пособие. Введение в алгоритмы на Python, , Yes, Учебное пособие. Введение в алгоритмы на Python
+INFO - 2024-02-07 16:03:37,557 : Урок_1, , Yes, Учебное пособие. Введение в алгоритмы на Python
+INFO - 2024-02-07 16:03:37,557 : Урок_2, , Yes, Учебное пособие. Введение в алгоритмы на Python
+INFO - 2024-02-07 16:03:37,558 : Урок_3, , Yes, Учебное пособие. Введение в алгоритмы на Python
+INFO - 2024-02-07 16:03:37,558 : Урок_4, , Yes, Учебное пособие. Введение в алгоритмы на Python
+INFO - 2024-02-07 16:03:37,558 : Урок_5, , Yes, Учебное пособие. Введение в алгоритмы на Python
+INFO - 2024-02-07 16:03:37,558 : Урок_6, , Yes, Учебное пособие. Введение в алгоритмы на Python
+INFO - 2024-02-07 16:03:37,558 : Урок_7, , Yes, Учебное пособие. Введение в алгоритмы на Python
+INFO - 2024-02-07 16:03:37,558 : Урок_8, , Yes, Учебное пособие. Введение в алгоритмы на Python
+INFO - 2024-02-07 16:03:37,558 : Урок 1. Коды примеров, , Yes, Урок_1
+INFO - 2024-02-07 16:03:37,558 : Урок 1. Материалы преподавателя, , Yes, Урок_1
+INFO - 2024-02-07 16:03:37,558 : ~WRL0003, .tmp, No, Урок_1
+INFO - 2024-02-07 16:03:37,558 : ~WRL1196, .tmp, No, Урок_1
+INFO - 2024-02-07 16:03:37,558 : ~WRL2371, .tmp, No, Урок_1
+INFO - 2024-02-07 16:03:37,558 : Урок 1. Коды примеров, .rar, No, Урок_1
+INFO - 2024-02-07 16:03:37,558 : Урок 1. Материалы преподавателя, .rar, No, Урок_1
+INFO - 2024-02-07 16:03:37,558 : .idea, , Yes, Урок 1. Коды примеров
+INFO - 2024-02-07 16:03:37,558 : O-examples, , Yes, Урок 1. Коды примеров
+INFO - 2024-02-07 16:03:37,558 : structures_examples, , Yes, Урок 1. Коды примеров
+INFO - 2024-02-07 16:03:37,558 : times_compare, , Yes, Урок 1. Коды примеров
+INFO - 2024-02-07 16:03:37,558 : test, .py, No, Урок 1. Коды примеров
+INFO - 2024-02-07 16:03:37,559 : inspectionProfiles, , Yes, .idea
+INFO - 2024-02-07 16:03:37,559 : .gitignore, , No, .idea
+INFO - 2024-02-07 16:03:37,559 : encodings, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,559 : misc, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,559 : modules, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,559 : workspace, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,559 : Урок 1. Коды примеров, .iml, No, .idea
+INFO - 2024-02-07 16:03:37,559 : Project_Default, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,559 : task_4, .py, No, O-examples
+INFO - 2024-02-07 16:03:37,559 : task_5, .py, No, O-examples
+INFO - 2024-02-07 16:03:37,559 : task_6, .py, No, O-examples
+INFO - 2024-02-07 16:03:37,559 : task_7, .py, No, O-examples
+INFO - 2024-02-07 16:03:37,559 : task_8, .py, No, O-examples
+INFO - 2024-02-07 16:03:37,559 : task_9, .py, No, O-examples
+INFO - 2024-02-07 16:03:37,559 : deque, , Yes, structures_examples
+INFO - 2024-02-07 16:03:37,559 : queue, , Yes, structures_examples
+INFO - 2024-02-07 16:03:37,560 : stack, , Yes, structures_examples
+INFO - 2024-02-07 16:03:37,560 : __pycache__, , Yes, deque
+INFO - 2024-02-07 16:03:37,560 : task_14, .py, No, deque
+INFO - 2024-02-07 16:03:37,560 : task_15, .py, No, deque
+INFO - 2024-02-07 16:03:37,560 : task_15.cpython-37, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,560 : __pycache__, , Yes, queue
+INFO - 2024-02-07 16:03:37,560 : task_12, .py, No, queue
+INFO - 2024-02-07 16:03:37,560 : task_13, .py, No, queue
+INFO - 2024-02-07 16:03:37,560 : task_12.cpython-37, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,560 : __pycache__, , Yes, stack
+INFO - 2024-02-07 16:03:37,560 : task_10, .py, No, stack
+INFO - 2024-02-07 16:03:37,560 : task_11, .py, No, stack
+INFO - 2024-02-07 16:03:37,560 : task_10.cpython-37, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,561 : task_1, .py, No, times_compare
+INFO - 2024-02-07 16:03:37,561 : task_2, .py, No, times_compare
+INFO - 2024-02-07 16:03:37,561 : task_3, .py, No, times_compare
+INFO - 2024-02-07 16:03:37,561 : Сложности операций 1, .docx, No, Урок 1. Материалы преподавателя
+INFO - 2024-02-07 16:03:37,561 : Сложности операций 2, .docx, No, Урок 1. Материалы преподавателя
+INFO - 2024-02-07 16:03:37,561 : Сложности операций 3, .docx, No, Урок 1. Материалы преподавателя
+INFO - 2024-02-07 16:03:37,561 : Урок 1. Конспект, .docx, No, Урок 1. Материалы преподавателя
+INFO - 2024-02-07 16:03:37,561 : Материалы преподавателя, , Yes, Урок_2
+INFO - 2024-02-07 16:03:37,561 : Урок 2. Коды примеров, , Yes, Урок_2
+INFO - 2024-02-07 16:03:37,561 : ~$Презентация 2. Алгоритмы и структуры данных на Python. Базовый курс. Циклы. Рекурсия. Функции, .pptx, No, Урок_2
+INFO - 2024-02-07 16:03:37,561 : ~WRL0056, .tmp, No, Урок_2
+INFO - 2024-02-07 16:03:37,561 : Материалы преподавателя, .rar, No, Урок_2
+INFO - 2024-02-07 16:03:37,561 : Урок 2. Коды примеров, .rar, No, Урок_2
+INFO - 2024-02-07 16:03:37,561 : ~$ПРЕЗЕНТАЦИЯ_Урок_2, .pptx, No, Материалы преподавателя
+INFO - 2024-02-07 16:03:37,561 : Урок 2. Конспект, .docx, No, Материалы преподавателя
+INFO - 2024-02-07 16:03:37,561 : .idea, , Yes, Урок 2. Коды примеров
+INFO - 2024-02-07 16:03:37,561 : task_10, , Yes, Урок 2. Коды примеров
+INFO - 2024-02-07 16:03:37,561 : task_6, , Yes, Урок 2. Коды примеров
+INFO - 2024-02-07 16:03:37,561 : task_1, .py, No, Урок 2. Коды примеров
+INFO - 2024-02-07 16:03:37,561 : task_11, .py, No, Урок 2. Коды примеров
+INFO - 2024-02-07 16:03:37,561 : task_2, .py, No, Урок 2. Коды примеров
+INFO - 2024-02-07 16:03:37,561 : task_3, .py, No, Урок 2. Коды примеров
+INFO - 2024-02-07 16:03:37,561 : task_4, .py, No, Урок 2. Коды примеров
+INFO - 2024-02-07 16:03:37,561 : task_5, .py, No, Урок 2. Коды примеров
+INFO - 2024-02-07 16:03:37,562 : task_7, .py, No, Урок 2. Коды примеров
+INFO - 2024-02-07 16:03:37,562 : task_8, .py, No, Урок 2. Коды примеров
+INFO - 2024-02-07 16:03:37,562 : task_9, .py, No, Урок 2. Коды примеров
+INFO - 2024-02-07 16:03:37,562 : inspectionProfiles, , Yes, .idea
+INFO - 2024-02-07 16:03:37,562 : .gitignore, , No, .idea
+INFO - 2024-02-07 16:03:37,562 : misc, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,562 : modules, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,562 : workspace, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,562 : Урок 2. Коды примеров, .iml, No, .idea
+INFO - 2024-02-07 16:03:37,562 : profiles_settings, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,562 : mainapp, , Yes, task_10
+INFO - 2024-02-07 16:03:37,562 : task_10, .py, No, task_10
+INFO - 2024-02-07 16:03:37,562 : management, , Yes, mainapp
+INFO - 2024-02-07 16:03:37,562 : migrations, , Yes, mainapp
+INFO - 2024-02-07 16:03:37,562 : templates, , Yes, mainapp
+INFO - 2024-02-07 16:03:37,562 : __pycache__, , Yes, mainapp
+INFO - 2024-02-07 16:03:37,562 : admin, .py, No, mainapp
+INFO - 2024-02-07 16:03:37,562 : apps, .py, No, mainapp
+INFO - 2024-02-07 16:03:37,562 : categories, .json, No, mainapp
+INFO - 2024-02-07 16:03:37,562 : context_processors, .py, No, mainapp
+INFO - 2024-02-07 16:03:37,562 : models, .py, No, mainapp
+INFO - 2024-02-07 16:03:37,562 : products, .json, No, mainapp
+INFO - 2024-02-07 16:03:37,562 : tests, .py, No, mainapp
+INFO - 2024-02-07 16:03:37,562 : urls, .py, No, mainapp
+INFO - 2024-02-07 16:03:37,562 : views, .py, No, mainapp
+INFO - 2024-02-07 16:03:37,562 : __init__, .py, No, mainapp
+INFO - 2024-02-07 16:03:37,563 : commands, , Yes, management
+INFO - 2024-02-07 16:03:37,563 : __pycache__, , Yes, commands
+INFO - 2024-02-07 16:03:37,563 : seed_db, .py, No, commands
+INFO - 2024-02-07 16:03:37,563 : seed_db.cpython-37, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,563 : __pycache__, , Yes, migrations
+INFO - 2024-02-07 16:03:37,563 : 0001_initial, .py, No, migrations
+INFO - 2024-02-07 16:03:37,563 : 0002_auto_20190215_0112, .py, No, migrations
+INFO - 2024-02-07 16:03:37,563 : 0003_auto_20190215_1709, .py, No, migrations
+INFO - 2024-02-07 16:03:37,563 : 0004_auto_20190215_1711, .py, No, migrations
+INFO - 2024-02-07 16:03:37,563 : 0005_auto_20190222_0314, .py, No, migrations
+INFO - 2024-02-07 16:03:37,563 : __init__, .py, No, migrations
+INFO - 2024-02-07 16:03:37,563 : 0001_initial.cpython-37, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,563 : 0002_auto_20190215_0112.cpython-37, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,563 : 0003_auto_20190215_1709.cpython-37, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,563 : 0004_auto_20190215_1711.cpython-37, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,563 : 0005_auto_20190222_0314.cpython-37, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,563 : __init__.cpython-37, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,563 : mainapp, , Yes, templates
+INFO - 2024-02-07 16:03:37,563 : categories_menu, .html, No, mainapp
+INFO - 2024-02-07 16:03:37,564 : contact, .html, No, mainapp
+INFO - 2024-02-07 16:03:37,564 : index, .html, No, mainapp
+INFO - 2024-02-07 16:03:37,564 : layout, .html, No, mainapp
+INFO - 2024-02-07 16:03:37,564 : menu, .html, No, mainapp
+INFO - 2024-02-07 16:03:37,564 : product, .html, No, mainapp
+INFO - 2024-02-07 16:03:37,564 : products, .html, No, mainapp
+INFO - 2024-02-07 16:03:37,564 : admin.cpython-37, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,564 : models.cpython-37, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,564 : urls.cpython-37, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,564 : views.cpython-37, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,564 : __init__.cpython-37, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,564 : __pycache__, , Yes, task_6
+INFO - 2024-02-07 16:03:37,564 : stack, .py, No, task_6
+INFO - 2024-02-07 16:03:37,564 : task_6, .py, No, task_6
+INFO - 2024-02-07 16:03:37,565 : stack.cpython-37, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,565 : Материалы преподавателя, , Yes, Урок_3
+INFO - 2024-02-07 16:03:37,565 : Урок 3. Коды примеров, , Yes, Урок_3
+INFO - 2024-02-07 16:03:37,565 : ~$Презентация 3. Алгоритмы и структуры данных на Python. Базовый курс. Хеш-функции, .pptx, No, Урок_3
+INFO - 2024-02-07 16:03:37,565 : ~WRL1877, .tmp, No, Урок_3
+INFO - 2024-02-07 16:03:37,567 : Материалы преподавателя, .rar, No, Урок_3
+INFO - 2024-02-07 16:03:37,567 : Урок 3. Коды примеров, .rar, No, Урок_3
+INFO - 2024-02-07 16:03:37,567 : Урок 3. Конспект, .docx, No, Материалы преподавателя
+INFO - 2024-02-07 16:03:37,567 : .idea, , Yes, Урок 3. Коды примеров
+INFO - 2024-02-07 16:03:37,567 : task_1, .py, No, Урок 3. Коды примеров
+INFO - 2024-02-07 16:03:37,567 : task_10, .py, No, Урок 3. Коды примеров
+INFO - 2024-02-07 16:03:37,567 : task_11, .py, No, Урок 3. Коды примеров
+INFO - 2024-02-07 16:03:37,567 : task_2, .py, No, Урок 3. Коды примеров
+INFO - 2024-02-07 16:03:37,567 : task_3, .py, No, Урок 3. Коды примеров
+INFO - 2024-02-07 16:03:37,567 : task_4, .py, No, Урок 3. Коды примеров
+INFO - 2024-02-07 16:03:37,567 : task_5, .py, No, Урок 3. Коды примеров
+INFO - 2024-02-07 16:03:37,567 : task_6, .py, No, Урок 3. Коды примеров
+INFO - 2024-02-07 16:03:37,567 : task_7, .py, No, Урок 3. Коды примеров
+INFO - 2024-02-07 16:03:37,567 : task_8, .py, No, Урок 3. Коды примеров
+INFO - 2024-02-07 16:03:37,567 : task_9, .py, No, Урок 3. Коды примеров
+INFO - 2024-02-07 16:03:37,567 : inspectionProfiles, , Yes, .idea
+INFO - 2024-02-07 16:03:37,567 : pylintpylint.tmp, , Yes, .idea
+INFO - 2024-02-07 16:03:37,567 : .gitignore, , No, .idea
+INFO - 2024-02-07 16:03:37,567 : misc, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,567 : modules, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,567 : workspace, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,567 : Урок 3. Коды примеров, .iml, No, .idea
+INFO - 2024-02-07 16:03:37,567 : profiles_settings, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,568 : Материалы преподавателя, , Yes, Урок_4
+INFO - 2024-02-07 16:03:37,568 : Урок 4. Коды примеров, , Yes, Урок_4
+INFO - 2024-02-07 16:03:37,568 : ~WRL1580, .tmp, No, Урок_4
+INFO - 2024-02-07 16:03:37,568 : Материалы преподавателя, .rar, No, Урок_4
+INFO - 2024-02-07 16:03:37,568 : Урок 4. Коды примеров, .rar, No, Урок_4
+INFO - 2024-02-07 16:03:37,568 : ~$Урок 4. Презентация, .pptx, No, Материалы преподавателя
+INFO - 2024-02-07 16:03:37,568 : ~WRL0588, .tmp, No, Материалы преподавателя
+INFO - 2024-02-07 16:03:37,568 : Урок 4. Конспект, .docx, No, Материалы преподавателя
+INFO - 2024-02-07 16:03:37,568 : .idea, , Yes, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,568 : task_9, , Yes, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,568 : __pycache__, , Yes, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,568 : task_1, .py, No, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,569 : task_10, .py, No, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,569 : task_11, .py, No, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,569 : task_12, .py, No, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,569 : task_13, .py, No, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,569 : task_14, .py, No, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,569 : task_2, .py, No, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,569 : task_3, .py, No, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,569 : task_4, .py, No, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,569 : task_5, .py, No, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,569 : task_6, .py, No, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,569 : task_7, .py, No, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,569 : task_8, .py, No, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,569 : test, .py, No, Урок 4. Коды примеров
+INFO - 2024-02-07 16:03:37,569 : inspectionProfiles, , Yes, .idea
+INFO - 2024-02-07 16:03:37,569 : encodings, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,569 : Exp8, .iml, No, .idea
+INFO - 2024-02-07 16:03:37,569 : misc, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,569 : modules, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,569 : workspace, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,569 : Project_Default, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,569 : fibo_cycle, .py, No, task_9
+INFO - 2024-02-07 16:03:37,569 : fibo_recur, .py, No, task_9
+INFO - 2024-02-07 16:03:37,569 : fibo_recur_memo, .py, No, task_9
+INFO - 2024-02-07 16:03:37,570 : task_4.cpython-39, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,570 : Материалы преподавателя, , Yes, Урок_5
+INFO - 2024-02-07 16:03:37,570 : Урок 5. Коды примеров, , Yes, Урок_5
+INFO - 2024-02-07 16:03:37,570 : ~WRL2380, .tmp, No, Урок_5
+INFO - 2024-02-07 16:03:37,570 : Материалы преподавателя, .rar, No, Урок_5
+INFO - 2024-02-07 16:03:37,570 : Урок 5. Коды примеров, .rar, No, Урок_5
+INFO - 2024-02-07 16:03:37,570 : ~$Урок 5. Презентация, .pptx, No, Материалы преподавателя
+INFO - 2024-02-07 16:03:37,570 : Урок 5. Конспект, .docx, No, Материалы преподавателя
+INFO - 2024-02-07 16:03:37,570 : .idea, , Yes, Урок 5. Коды примеров
+INFO - 2024-02-07 16:03:37,570 : abc_ex, , Yes, Урок 5. Коды примеров
+INFO - 2024-02-07 16:03:37,570 : counter_ex, , Yes, Урок 5. Коды примеров
+INFO - 2024-02-07 16:03:37,570 : defaultdict_ex, , Yes, Урок 5. Коды примеров
+INFO - 2024-02-07 16:03:37,570 : deque_ex, , Yes, Урок 5. Коды примеров
+INFO - 2024-02-07 16:03:37,570 : namedtuple_ex, , Yes, Урок 5. Коды примеров
+INFO - 2024-02-07 16:03:37,570 : ordereddict_ex, , Yes, Урок 5. Коды примеров
+INFO - 2024-02-07 16:03:37,570 : сhainmap_ex, , Yes, Урок 5. Коды примеров
+INFO - 2024-02-07 16:03:37,570 : inspectionProfiles, , Yes, .idea
+INFO - 2024-02-07 16:03:37,570 : .gitignore, , No, .idea
+INFO - 2024-02-07 16:03:37,570 : misc, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,570 : modules, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,570 : workspace, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,570 : Урок 5. Коды примеров, .iml, No, .idea
+INFO - 2024-02-07 16:03:37,570 : profiles_settings, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,571 : task_16, .py, No, abc_ex
+INFO - 2024-02-07 16:03:37,571 : task_2, , Yes, counter_ex
+INFO - 2024-02-07 16:03:37,571 : task_3, , Yes, counter_ex
+INFO - 2024-02-07 16:03:37,571 : task_1, .py, No, counter_ex
+INFO - 2024-02-07 16:03:37,571 : onegin, .txt, No, task_2
+INFO - 2024-02-07 16:03:37,571 : task_2, .py, No, task_2
+INFO - 2024-02-07 16:03:37,571 : mtsuri, .txt, No, task_3
+INFO - 2024-02-07 16:03:37,571 : task_3, .py, No, task_3
+INFO - 2024-02-07 16:03:37,571 : task_4, .py, No, defaultdict_ex
+INFO - 2024-02-07 16:03:37,571 : task_5, .py, No, defaultdict_ex
+INFO - 2024-02-07 16:03:37,571 : task_6, .py, No, defaultdict_ex
+INFO - 2024-02-07 16:03:37,571 : task_7, .py, No, defaultdict_ex
+INFO - 2024-02-07 16:03:37,571 : task_12, .py, No, deque_ex
+INFO - 2024-02-07 16:03:37,571 : task_13, .py, No, deque_ex
+INFO - 2024-02-07 16:03:37,571 : .idea, , Yes, namedtuple_ex
+INFO - 2024-02-07 16:03:37,571 : task_14, .py, No, namedtuple_ex
+INFO - 2024-02-07 16:03:37,571 : inspectionProfiles, , Yes, .idea
+INFO - 2024-02-07 16:03:37,571 : misc, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,571 : modules, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,571 : Namedtuple_ex, .iml, No, .idea
+INFO - 2024-02-07 16:03:37,572 : workspace, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,572 : profiles_settings, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,572 : task_10, .py, No, ordereddict_ex
+INFO - 2024-02-07 16:03:37,572 : task_11, .py, No, ordereddict_ex
+INFO - 2024-02-07 16:03:37,572 : task_8, .py, No, ordereddict_ex
+INFO - 2024-02-07 16:03:37,572 : task_9, .py, No, ordereddict_ex
+INFO - 2024-02-07 16:03:37,572 : task_15, .py, No, сhainmap_ex
+INFO - 2024-02-07 16:03:37,572 : Материалы преподавателя, , Yes, Урок_6
+INFO - 2024-02-07 16:03:37,572 : Урок 6. Коды примеров, , Yes, Урок_6
+INFO - 2024-02-07 16:03:37,572 : ~WRL3059, .tmp, No, Урок_6
+INFO - 2024-02-07 16:03:37,572 : Материалы преподавателя, .rar, No, Урок_6
+INFO - 2024-02-07 16:03:37,572 : Урок 6. Коды примеров, .rar, No, Урок_6
+INFO - 2024-02-07 16:03:37,572 : ~$Урок 6. Презентация, .pptx, No, Материалы преподавателя
+INFO - 2024-02-07 16:03:37,572 : Урок 6. Конспект, .docx, No, Материалы преподавателя
+INFO - 2024-02-07 16:03:37,572 : .idea, , Yes, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,572 : task_13, , Yes, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,572 : task_3, , Yes, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,572 : task_8, , Yes, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,572 : task_1, .py, No, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,572 : task_10, .py, No, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,572 : task_11, .py, No, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,572 : task_12, .py, No, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,572 : task_14, .py, No, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : task_15, .py, No, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : task_16, .py, No, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : task_2, .py, No, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : task_4, .py, No, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : task_5, .py, No, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : task_6, .py, No, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : task_7, .py, No, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : task_9, .py, No, Урок 6. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : inspectionProfiles, , Yes, .idea
+INFO - 2024-02-07 16:03:37,573 : .gitignore, , No, .idea
+INFO - 2024-02-07 16:03:37,573 : misc, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,573 : modules, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,573 : workspace, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,573 : Урок 6. Коды примеров, .iml, No, .idea
+INFO - 2024-02-07 16:03:37,573 : Project_Default, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,573 : task_13_1, .py, No, task_13
+INFO - 2024-02-07 16:03:37,573 : task_13_2, .py, No, task_13
+INFO - 2024-02-07 16:03:37,573 : task_3_1, .py, No, task_3
+INFO - 2024-02-07 16:03:37,573 : task_3_2, .py, No, task_3
+INFO - 2024-02-07 16:03:37,573 : task_8_1, .py, No, task_8
+INFO - 2024-02-07 16:03:37,573 : task_8_2, .py, No, task_8
+INFO - 2024-02-07 16:03:37,573 : task_8_3, .py, No, task_8
+INFO - 2024-02-07 16:03:37,573 : Материалы преподавателя, , Yes, Урок_7
+INFO - 2024-02-07 16:03:37,573 : Урок 7. Коды примеров, , Yes, Урок_7
+INFO - 2024-02-07 16:03:37,573 : Материалы преподавателя, .rar, No, Урок_7
+INFO - 2024-02-07 16:03:37,573 : Урок 7. Коды примеров, .rar, No, Урок_7
+INFO - 2024-02-07 16:03:37,573 : ~$ПРЕЗЕНТАЦИЯ_Урок_7, .pptx, No, Материалы преподавателя
+INFO - 2024-02-07 16:03:37,573 : Урок 7. Конспект, .docx, No, Материалы преподавателя
+INFO - 2024-02-07 16:03:37,573 : .idea, , Yes, Урок 7. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : bubble_sort, .py, No, Урок 7. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : hoare_quick_sort, .py, No, Урок 7. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : insertion_sort, .py, No, Урок 7. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : merge_sort, .py, No, Урок 7. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : selection_sort, .py, No, Урок 7. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : shaker_sort, .py, No, Урок 7. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : sorted_sort, .py, No, Урок 7. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : sort_sort, .py, No, Урок 7. Коды примеров
+INFO - 2024-02-07 16:03:37,573 : inspectionProfiles, , Yes, .idea
+INFO - 2024-02-07 16:03:37,573 : pylintpylint.tmp, , Yes, .idea
+INFO - 2024-02-07 16:03:37,573 : .gitignore, , No, .idea
+INFO - 2024-02-07 16:03:37,573 : encodings, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,573 : misc, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,573 : modules, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,573 : workspace, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,573 : Коды для урока, .iml, No, .idea
+INFO - 2024-02-07 16:03:37,573 : Project_Default, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,574 : Материалы преподавателя, , Yes, Урок_8
+INFO - 2024-02-07 16:03:37,574 : Урок 8. Коды к уроку, , Yes, Урок_8
+INFO - 2024-02-07 16:03:37,574 : ~$Презентация 8. Алгоритмы и структуры данных на Python. Деревья. Хеш-функция, .pptx, No, Урок_8
+INFO - 2024-02-07 16:03:37,574 : Материалы преподавателя, .rar, No, Урок_8
+INFO - 2024-02-07 16:03:37,574 : Урок 8. Коды к уроку, .rar, No, Урок_8
+INFO - 2024-02-07 16:03:37,574 : ~$ПРЕЗЕНТАЦИЯ_Урок_8, .pptx, No, Материалы преподавателя
+INFO - 2024-02-07 16:03:37,574 : Урок 8. Конспект, .docx, No, Материалы преподавателя
+INFO - 2024-02-07 16:03:37,574 : .idea, , Yes, Урок 8. Коды к уроку
+INFO - 2024-02-07 16:03:37,574 : task_1, .py, No, Урок 8. Коды к уроку
+INFO - 2024-02-07 16:03:37,574 : task_2, .py, No, Урок 8. Коды к уроку
+INFO - 2024-02-07 16:03:37,574 : inspectionProfiles, , Yes, .idea
+INFO - 2024-02-07 16:03:37,574 : encodings, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,574 : misc, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,574 : modules, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,574 : workspace, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,574 : Коды для урока, .iml, No, .idea
+INFO - 2024-02-07 16:03:37,574 : Project_Default, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,574 : t_1, .py, No, 10
+INFO - 2024-02-07 16:03:37,574 : t_2, .py, No, 10
+INFO - 2024-02-07 16:03:37,574 : t_4, .py, No, 11
+INFO - 2024-02-07 16:03:37,574 : Задачи на семинар 11. Ответы, .rar, No, 11
+INFO - 2024-02-07 16:03:37,574 : Семинар 11. Погружение в Python. ООП. Особенности Python, .pdf, No, 11
+INFO - 2024-02-07 16:03:37,575 : Задачи на семинар 12. Ответы, .rar, No, 12
+INFO - 2024-02-07 16:03:37,575 : Семинар 12. Погружение в Python. ООП. Финал, .pdf, No, 12
+INFO - 2024-02-07 16:03:37,575 : Задачи на семинар 13. Ответы, .rar, No, 13
+INFO - 2024-02-07 16:03:37,575 : Семинар 13. Погружение в Python. Исключения, .pdf, No, 13
+INFO - 2024-02-07 16:03:37,575 : Et_14_1, .py, No, 14
+INFO - 2024-02-07 16:03:37,575 : Et_14_2, .py, No, 14
+INFO - 2024-02-07 16:03:37,575 : Et_14_3, .py, No, 14
+INFO - 2024-02-07 16:03:37,575 : Et_14_4, .py, No, 14
+INFO - 2024-02-07 16:03:37,575 : Et_14_5, .py, No, 14
+INFO - 2024-02-07 16:03:37,575 : Et_14_6, .py, No, 14
+INFO - 2024-02-07 16:03:37,575 : task13_4, .json, No, 14
+INFO - 2024-02-07 16:03:37,575 : t_1_ans, .py, No, 14
+INFO - 2024-02-07 16:03:37,575 : Задачи на семинар 14. Ответы, .rar, No, 14
+INFO - 2024-02-07 16:03:37,575 : Семинар 14. Погружение в Python. Основы тестирования, .pdf, No, 14
+INFO - 2024-02-07 16:03:37,577 : VS, , Yes, 15
+INFO - 2024-02-07 16:03:37,577 : Задачи на семинар 15. Ответы, , Yes, 15
+INFO - 2024-02-07 16:03:37,577 : Задачи на семинар 15. Ответы, .rar, No, 15
+INFO - 2024-02-07 16:03:37,577 : Семинар 15. Погружение в Python. Обзор стандартной библиотеки Python, .pdf, No, 15
+INFO - 2024-02-07 16:03:37,577 : Seminar15, , Yes, VS
+INFO - 2024-02-07 16:03:37,577 : file_info, .log, No, VS
+INFO - 2024-02-07 16:03:37,577 : .git, , Yes, Seminar15
+INFO - 2024-02-07 16:03:37,577 : Log, , Yes, Seminar15
+INFO - 2024-02-07 16:03:37,577 : __pycache__, , Yes, Seminar15
+INFO - 2024-02-07 16:03:37,577 : ex_1, .py, No, Seminar15
+INFO - 2024-02-07 16:03:37,577 : ex_2, .py, No, Seminar15
+INFO - 2024-02-07 16:03:37,577 : ex_3, .py, No, Seminar15
+INFO - 2024-02-07 16:03:37,577 : ex_4, .py, No, Seminar15
+INFO - 2024-02-07 16:03:37,577 : ex_5, .py, No, Seminar15
+INFO - 2024-02-07 16:03:37,577 : ex_6, .py, No, Seminar15
+INFO - 2024-02-07 16:03:37,577 : fsmonitor--daemon, , Yes, .git
+INFO - 2024-02-07 16:03:37,578 : hooks, , Yes, .git
+INFO - 2024-02-07 16:03:37,578 : info, , Yes, .git
+INFO - 2024-02-07 16:03:37,578 : objects, , Yes, .git
+INFO - 2024-02-07 16:03:37,578 : refs, , Yes, .git
+INFO - 2024-02-07 16:03:37,578 : config, , No, .git
+INFO - 2024-02-07 16:03:37,578 : description, , No, .git
+INFO - 2024-02-07 16:03:37,578 : HEAD, , No, .git
+INFO - 2024-02-07 16:03:37,578 : cookies, , Yes, fsmonitor--daemon
+INFO - 2024-02-07 16:03:37,578 : applypatch-msg, .sample, No, hooks
+INFO - 2024-02-07 16:03:37,578 : commit-msg, .sample, No, hooks
+INFO - 2024-02-07 16:03:37,578 : fsmonitor-watchman, .sample, No, hooks
+INFO - 2024-02-07 16:03:37,578 : post-update, .sample, No, hooks
+INFO - 2024-02-07 16:03:37,578 : pre-applypatch, .sample, No, hooks
+INFO - 2024-02-07 16:03:37,578 : pre-commit, .sample, No, hooks
+INFO - 2024-02-07 16:03:37,578 : pre-merge-commit, .sample, No, hooks
+INFO - 2024-02-07 16:03:37,578 : pre-push, .sample, No, hooks
+INFO - 2024-02-07 16:03:37,579 : pre-rebase, .sample, No, hooks
+INFO - 2024-02-07 16:03:37,579 : pre-receive, .sample, No, hooks
+INFO - 2024-02-07 16:03:37,579 : prepare-commit-msg, .sample, No, hooks
+INFO - 2024-02-07 16:03:37,579 : push-to-checkout, .sample, No, hooks
+INFO - 2024-02-07 16:03:37,579 : sendemail-validate, .sample, No, hooks
+INFO - 2024-02-07 16:03:37,579 : update, .sample, No, hooks
+INFO - 2024-02-07 16:03:37,579 : exclude, , No, info
+INFO - 2024-02-07 16:03:37,579 : info, , Yes, objects
+INFO - 2024-02-07 16:03:37,579 : pack, , Yes, objects
+INFO - 2024-02-07 16:03:37,579 : heads, , Yes, refs
+INFO - 2024-02-07 16:03:37,579 : tags, , Yes, refs
+INFO - 2024-02-07 16:03:37,579 : ex_1, .log, No, Log
+INFO - 2024-02-07 16:03:37,580 : ex_2, .log, No, Log
+INFO - 2024-02-07 16:03:37,580 : ex_3, .log, No, Log
+INFO - 2024-02-07 16:03:37,580 : ex_4, .log, No, Log
+INFO - 2024-02-07 16:03:37,580 : ex_6, .log, No, Log
+INFO - 2024-02-07 16:03:37,580 : ex_4.cpython-310 (2), .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,580 : ex_4.cpython-310, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,580 : ex_4.cpython-311, .pyc, No, __pycache__
+INFO - 2024-02-07 16:03:37,580 : Задачи на семинар 15. Ответы, , Yes, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,580 : .idea, , Yes, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,580 : Log, , Yes, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,580 : task_1, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,580 : task_2, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,580 : task_3, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,580 : task_4, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,580 : task_5, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,580 : task_6, .py, No, Задачи на семинар 15. Ответы
+INFO - 2024-02-07 16:03:37,581 : inspectionProfiles, , Yes, .idea
+INFO - 2024-02-07 16:03:37,581 : pylintpylint.tmp, , Yes, .idea
+INFO - 2024-02-07 16:03:37,581 : .gitignore, , No, .idea
+INFO - 2024-02-07 16:03:37,581 : misc, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,581 : modules, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,581 : pylint, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,581 : workspace, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,581 : Задачи на семинар. Ответы, .iml, No, .idea
+INFO - 2024-02-07 16:03:37,581 : profiles_settings, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,581 : Project_Default, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,582 : log_1, .log, No, Log
+INFO - 2024-02-07 16:03:37,582 : log_4, .log, No, Log
+INFO - 2024-02-07 16:03:37,582 : Задачи на семинар 2. Ответы, , Yes, 2
+INFO - 2024-02-07 16:03:37,582 : 1, .docx, No, 2
+INFO - 2024-02-07 16:03:37,582 : ~$1, .docx, No, 2
+INFO - 2024-02-07 16:03:37,582 : ~WRL4078, .tmp, No, 2
+INFO - 2024-02-07 16:03:37,582 : Задачи на семинар 2. Ответы, .zip, No, 2
+INFO - 2024-02-07 16:03:37,583 : Методичка. Урок 2, .docx, No, 2
+INFO - 2024-02-07 16:03:37,583 : Семинар 2. Погружение в Python. Простые типы данных, .pdf, No, 2
+INFO - 2024-02-07 16:03:37,583 : Задачи на семинар 2. Ответы, , Yes, Задачи на семинар 2. Ответы
+INFO - 2024-02-07 16:03:37,583 : .idea, , Yes, Задачи на семинар 2. Ответы
+INFO - 2024-02-07 16:03:37,583 : task_1, .py, No, Задачи на семинар 2. Ответы
+INFO - 2024-02-07 16:03:37,583 : task_2, .py, No, Задачи на семинар 2. Ответы
+INFO - 2024-02-07 16:03:37,583 : task_3, .py, No, Задачи на семинар 2. Ответы
+INFO - 2024-02-07 16:03:37,583 : task_4, .py, No, Задачи на семинар 2. Ответы
+INFO - 2024-02-07 16:03:37,583 : task_5, .py, No, Задачи на семинар 2. Ответы
+INFO - 2024-02-07 16:03:37,583 : task_6, .py, No, Задачи на семинар 2. Ответы
+INFO - 2024-02-07 16:03:37,583 : inspectionProfiles, , Yes, .idea
+INFO - 2024-02-07 16:03:37,583 : pylintpylint.tmp, , Yes, .idea
+INFO - 2024-02-07 16:03:37,583 : .gitignore, , No, .idea
+INFO - 2024-02-07 16:03:37,583 : misc, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,583 : modules, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,583 : workspace, .xml, No, .idea
+INFO - 2024-02-07 16:03:37,583 : Задачи на семинар. Ответы, .iml, No, .idea
+INFO - 2024-02-07 16:03:37,583 : profiles_settings, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,583 : Project_Default, .xml, No, inspectionProfiles
+INFO - 2024-02-07 16:03:37,583 : Задачи на семинар 3. Ответы, .rar, No, 3
+INFO - 2024-02-07 16:03:37,583 : Семинар 3. Погружение в Python. Коллекции, .pdf, No, 3
+INFO - 2024-02-07 16:03:37,584 : 1, .py, No, 4
+INFO - 2024-02-07 16:03:37,584 : 2, .py, No, 4
+INFO - 2024-02-07 16:03:37,584 : 3, .py, No, 4
+INFO - 2024-02-07 16:03:37,584 : Задачи на семинар 4. Ответы, .rar, No, 4
+INFO - 2024-02-07 16:03:37,584 : Семинар 4. Погружение в Python. Функции, .pdf, No, 4
+INFO - 2024-02-07 16:03:37,584 : t_1, .py, No, 5
+INFO - 2024-02-07 16:03:37,584 : Семинар 5. Погружение в Python. Итераторы и генераторы, .pdf, No, 5
+INFO - 2024-02-07 16:03:37,584 : Семинар 6. Погружение в Python. Модули, .pdf, No, 6
+INFO - 2024-02-07 16:03:37,584 : Задачи на семинар 7. Ответы, .rar, No, 7
+INFO - 2024-02-07 16:03:37,584 : Семинар 7. Погружение в Python. Файлы и файловая система, .pdf, No, 7
+INFO - 2024-02-07 16:03:37,584 : Задачи на семинар 8. Ответы, .rar, No, 8
+INFO - 2024-02-07 16:03:37,584 : Семинар 8. Погружение в Python. Сериализация, .pdf, No, 8
+INFO - 2024-02-07 16:03:37,584 : t_1, .py, No, 9
+INFO - 2024-02-07 16:03:37,585 : t_2, .py, No, 9
+INFO - 2024-02-07 16:03:37,585 : Методичка 6. Создание мессенджера на Python. Часть 1. Декораторы и продолжение работы с сетью, .docx, No, 9
+INFO - 2024-02-07 16:03:37,585 : Семинар 9. Погружение в Python. Декораторы, .pdf, No, 9
+INFO - 2024-02-07 16:03:37,585 : Урок 6. Коды примеров, .rar, No, 9
